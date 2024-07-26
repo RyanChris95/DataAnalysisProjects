@@ -5,7 +5,7 @@ This repository showcases my data analysis projects. Below is an overview of the
 ## Project: Flight Delays Analysis
 
 **File:** `Flight_Delays.ipynb`  
-This Jupyter Notebook contains my Python code for cleaning a dataset of flight delays sourced from Kaggle. The code processes the raw data and generates a new CSV file for visualization.
+This Jupyter Notebook contains my Python code for cleaning a dataset of flight delays sourced from Kaggle. The code processes the raw data to determine high correlations, generates a graph of the highest correlation, and creates a new CSV file for visualization.
 
 **Dataset Source:** [Kaggle - Flight Delays](https://www.kaggle.com/datasets/mahoora00135/flights)
 
